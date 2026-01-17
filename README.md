@@ -1,43 +1,53 @@
 # Doze Crew - Documentação Enterprise
 
-> Documentação centralizada da empresa Doze Crew - Padrões, Processos, Estratégia e Inteligência de Negócio.
+> Documentação centralizada da empresa Doze Crew - Estratégia, Operações, Padrões e Inteligência de Negócio.
 
-## 🏢 Sobre
+## Sobre
 
-Este repositório contém a documentação que serve para **todos os projetos** da Doze Crew, incluindo:
+Este repositório contém documentação que serve para **toda a empresa** e **todos os projetos**, incluindo:
 
-- Estratégia e posicionamento da empresa
-- Processos operacionais e templates
+- Estratégia e posicionamento
+- Processos operacionais
 - Padrões de arquitetura e banco de dados
-- Inteligência de mercado e pesquisa
+- Análises estratégicas (riscos, KPIs, marketing)
+- Inteligência de mercado
 - Especificações de produtos
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 dozecrew-spec/
-├── 00-index/              # Índices e logs de decisão
+├── 00-index/              # Índices e navegação
+│   ├── README.md
 │   ├── decision-log.md
 │   └── glossary.md
 ├── 01-company/            # Estratégia da empresa
-│   ├── 01-thesis.md       # Tese e posicionamento
-│   ├── 02-positioning.md  # Mensagens e diferenciação
-│   ├── 03-portfolio.md    # Produtos e serviços
-│   ├── 04-pricing.md      # Precificação
-│   ├── 05-gtm.md          # Go-to-market
-│   └── 06-risk-register.md # Riscos estratégicos
-├── 02-ops/                # Operações
-│   ├── 01-operating-model.md
-│   ├── 02-intake-process.md
-│   ├── 03-delivery-process.md
-│   ├── 04-weekly-rituals.md
-│   └── 05-templates/      # Templates operacionais
+│   ├── thesis.md
+│   ├── positioning.md
+│   ├── portfolio.md
+│   ├── pricing.md
+│   └── gtm.md
+├── 02-operations/         # Operações
+│   ├── operating-model.md
+│   ├── intake-process.md
+│   ├── delivery-process.md
+│   ├── weekly-rituals.md
+│   └── templates/
 ├── 03-standards/          # Padrões técnicos
-│   ├── databases/         # MySQL, PostgreSQL
-│   ├── prompts/           # Prompts base
-│   ├── universal/         # Arquitetura universal
-│   └── infra/             # Infraestrutura (K8s)
-├── 04-business-intel/     # Inteligência de negócio
+│   ├── architecture.yaml
+│   ├── database.yaml
+│   ├── postgres.yaml
+│   ├── mysql.yaml
+│   └── kubernetes-server.md
+├── 04-products/           # Produtos
+│   └── core-hub/
+├── 05-analysis/           # Análises estratégicas
+│   ├── risk-register.md
+│   ├── risk-action-plan.md
+│   ├── kpis.md
+│   ├── dod-checklist.md
+│   └── marketing-strategy.md
+├── 06-business-intel/     # Inteligência de negócio
 │   ├── 00-index.md
 │   ├── 01-market-analysis.md
 │   ├── 02-competitors.md
@@ -46,39 +56,37 @@ dozecrew-spec/
 │   ├── 05-profiles-influencers.md
 │   ├── 06-opportunities.md
 │   ├── 07-links-repos.md
-│   └── 08-research-plan.md
-├── 05-research/           # Pesquisas e experimentos
-│   └── experiments-14d/
-├── 06-products/           # Produtos da empresa
-│   └── core-hub/          # Specs do Core Hub
+│   ├── 08-research-plan.md
+│   └── 09-internal-projects.md
+├── 07-research/           # Pesquisas
+│   └── experiments/
 └── curriculo/             # CVs dos fundadores
 ```
 
-## 🔗 Projetos Relacionados
+## Projetos Relacionados
 
 | Projeto | Repositório | Descrição |
 |---------|-------------|-----------|
 | **Portal** | [GabArtista/portal](https://github.com/GabArtista/portal) | Site institucional tech.dozecrew.com |
 
-## 👥 Equipe
+## Equipe
 
-| Nome | Foco | LinkedIn |
-|------|------|----------|
-| **Gabriel** | IA/Engenharia de Dados/Backend | - |
-| **Miguel** | Full-stack/Produto | - |
+| Nome | Foco |
+|------|------|
+| **Gabriel** | IA/Engenharia de Dados/Backend |
+| **Miguel** | Full-stack/Produto |
 
-## 📞 Contato
+## Contato
 
 - **Site**: tech.dozecrew.com
 - **Email**: contato@dozecrew.com
 - **LinkedIn**: [Doze Crew](https://www.linkedin.com/company/doze-crew)
 
-## 🎨 Identidade
+## Identidade
 
-- **Cores**: Laranja + Preto
+- **Cores**: Laranja (#F97316) + Preto (#0A0A0A)
 - **Domínio**: tech.dozecrew.com
 
 ---
 
 **Última atualização**: 2026-01-17
-

@@ -87,7 +87,6 @@ spec:
 | Namespace | Serviço | Domínio | Status |
 |-----------|---------|---------|--------|
 | dozecrew-prod | portal | tech.dozecrew.com | Planejado |
-| [outros] | [outros] | [outros] | [verificar] |
 
 ## Padrões de Deploy
 
@@ -99,7 +98,7 @@ Cada projeto deve ter seu próprio namespace:
 <projeto>-prod    # Produção
 ```
 
-> **Nota**: Staging foi removido para projetos menores. Usar apenas para projetos de grande porte.
+> **Nota**: Staging removido para projetos menores.
 
 ### Estrutura de Manifests
 
@@ -107,11 +106,11 @@ Cada projeto deve ter seu próprio namespace:
 k8s/
 ├── namespace.yaml
 ├── configmap.yaml
-├── secrets.yaml       # Template, valores via CI/CD
+├── secrets.yaml
 ├── deployment.yaml
 ├── service.yaml
 ├── ingress.yaml
-└── hpa.yaml          # Opcional: autoscaling
+└── hpa.yaml
 ```
 
 ### Deployment Padrão
@@ -163,17 +162,7 @@ spec:
             periodSeconds: 5
 ```
 
-## Alertas e Monitoramento
-
-### Alertas Observados (2026-01-17)
-
-| Alerta | Descrição | Ação |
-|--------|-----------|------|
-| Disk Usage | Monitorar uso de disco | Limpar logs antigos |
-| Memory | Monitorar memória | Ajustar limits |
-| Pod Restarts | Pods reiniciando | Verificar logs |
-
-### Comandos Úteis
+## Comandos Úteis
 
 ```bash
 # Verificar status do cluster
@@ -224,22 +213,6 @@ kubectl rollout status deployment/<nome> -n <namespace>
 kubectl get pods -n <namespace>
 ```
 
-## Backup e Recovery
-
-### Banco de Dados
-
-- Backups diários via CronJob
-- Retenção: 30 dias
-- Storage: Bucket separado
-
-### Procedimento de Recovery
-
-1. Identificar backup mais recente
-2. Verificar integridade
-3. Restaurar em ambiente isolado
-4. Validar dados
-5. Aplicar em produção (se necessário)
-
 ## Segurança
 
 ### Boas Práticas
@@ -249,20 +222,6 @@ kubectl get pods -n <namespace>
 - [ ] Network policies entre namespaces
 - [ ] Imagens sempre de registries confiáveis
 - [ ] Scan de vulnerabilidades em CI
-
-### Acesso SSH
-
-- Usar chaves SSH, não senhas
-- Rotacionar credenciais periodicamente
-- Logs de acesso habilitados
-
-## Contatos de Emergência
-
-| Situação | Contato | Ação |
-|----------|---------|------|
-| Cluster down | Gabriel | SSH + verificar |
-| Certificado expirado | Gabriel | Renovar cert-manager |
-| Pod crashloop | Gabriel | Verificar logs, rollback |
 
 ---
 
