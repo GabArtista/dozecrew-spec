@@ -1,11 +1,12 @@
 ---
 title: TPL-001 — Intake Form (Formulário de Entrada)
 status: active
+version: 1.0.0
 owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/02-intake-process.md
+  - /02-operations/intake-process.md
 tags:
   - template
   - ops

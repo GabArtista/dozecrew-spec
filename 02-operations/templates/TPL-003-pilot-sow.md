@@ -1,12 +1,13 @@
 ---
 title: TPL-003 — Pilot SOW (Escopo de Trabalho do Piloto)
 status: active
+version: 1.0.0
 owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/03-delivery-process.md
-  - /docs/02-ops/02-intake-process.md
+  - /02-operations/delivery-process.md
+  - /02-operations/intake-process.md
 tags:
   - template
   - ops

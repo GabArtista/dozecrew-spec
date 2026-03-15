@@ -65,8 +65,8 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 |---|----------|--------|---------------|
 | 2.1 | Quem é o ICP (Ideal Customer Profile)? | ✅ | PMEs 10-100 funcionários |
 | 2.2 | Quais setores são prioritários? | ✅ | Serviços, varejo, indústria leve |
-| 2.3 | Qual o TAM/SAM/SOM? | ✅ | market-analysis.md |
-| 2.4 | Quem são os concorrentes? | ✅ | competitors.md |
+| 2.3 | Qual o TAM/SAM/SOM? | ✅ | [01-market-analysis.md](../06-business-intel/01-market-analysis.md) |
+| 2.4 | Quem são os concorrentes? | ✅ | [02-competitors.md](../06-business-intel/02-competitors.md) |
 | 2.5 | Como nos diferenciamos? | ✅ | Pragmatismo + técnico |
 | 2.6 | Qual região geográfica inicial? | ⏳ | Brasil (SP/SC?) |
 
@@ -88,7 +88,7 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 | 3.2 | Quais produtos temos? | ⏳ | Core Hub (planejado) |
 | 3.3 | Qual é o wedge de entrada? | ✅ | Diagnóstico gratuito |
 | 3.4 | Existe upsell path? | ✅ | Diagnóstico → Piloto → Full |
-| 3.5 | Quais utilitários internos? | ✅ | Listados em portfolio.md |
+| 3.5 | Quais utilitários internos? | ✅ | Listados em [portfolio.md](../01-company/portfolio.md) |
 
 ### Perguntas Abertas
 
@@ -145,9 +145,9 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 | # | Pergunta | Status | Resposta/Link |
 |---|----------|--------|---------------|
 | 6.1 | Qual o modelo operacional? | ✅ | Lean, 2 fundadores |
-| 6.2 | Existe processo de intake? | ✅ | intake-process.md |
-| 6.3 | Como é o delivery? | ✅ | delivery-process.md |
-| 6.4 | Quais são os rituais? | ✅ | weekly-rituals.md |
+| 6.2 | Existe processo de intake? | ✅ | [intake-process.md](../02-operations/intake-process.md) |
+| 6.3 | Como é o delivery? | ✅ | [delivery-process.md](../02-operations/delivery-process.md) |
+| 6.4 | Quais são os rituais? | ✅ | [weekly-rituals.md](../02-operations/weekly-rituals.md) |
 | 6.5 | Usamos IA nas operações? | ✅ | Documentado por área |
 
 ### Perguntas Abertas
@@ -204,8 +204,8 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 
 | # | Pergunta | Status | Resposta/Link |
 |---|----------|--------|---------------|
-| 9.1 | Riscos foram mapeados? | ✅ | risk-register.md |
-| 9.2 | Existe plano de mitigação? | ✅ | risk-action-plan.md |
+| 9.1 | Riscos foram mapeados? | ✅ | [risk-register.md](../05-analysis/risk-register.md) |
+| 9.2 | Existe plano de mitigação? | ✅ | [risk-action-plan.md](../05-analysis/risk-action-plan.md) |
 | 9.3 | Qual o maior risco atual? | ✅ | PMF não validado |
 | 9.4 | Temos contingência? | ✅ | Documentado |
 
@@ -227,7 +227,7 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 | 10.2 | Qual o tom de voz? | ✅ | Pragmático, técnico |
 | 10.3 | Temos tagline? | ✅ | "Automação Inteligente para PMEs" |
 | 10.4 | Quais canais de marketing? | ✅ | LinkedIn, SEO, Blog |
-| 10.5 | Qual a estratégia de conteúdo? | ✅ | seo-ia-first-research.md |
+| 10.5 | Qual a estratégia de conteúdo? | ✅ | [10-seo-ia-first-research.md](../06-business-intel/10-seo-ia-first-research.md) |
 
 ### Perguntas Abertas
 
@@ -244,10 +244,10 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 | # | Pergunta | Status | Resposta/Link |
 |---|----------|--------|---------------|
 | 11.1 | Qual o produto core? | ✅ | Core Hub |
-| 11.2 | Qual o roadmap? | ✅ | mvp-sprints.md |
+| 11.2 | Qual o roadmap? | ✅ | [mvp-sprints.md](../06-backlog/mvp-sprints.md) |
 | 11.3 | Usamos tech proprietária? | ✅ | RAG, agentes |
 | 11.4 | Quais integrações são críticas? | ✅ | ERPs, bancos |
-| 11.5 | Como é o LLMOps? | ✅ | 06-llmops.md |
+| 11.5 | Como é o LLMOps? | ✅ | [06-llmops.md](../04-products/core-hub/06-llmops.md) |
 
 ### Perguntas Abertas
 
@@ -283,11 +283,11 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 
 | # | Pergunta | Status | Resposta/Link |
 |---|----------|--------|---------------|
-| 13.1 | Mercado foi analisado? | ✅ | market-analysis.md |
-| 13.2 | Concorrentes mapeados? | ✅ | competitors.md |
-| 13.3 | Ferramentas de BI definidas? | ✅ | tools-resources.md |
-| 13.4 | Empresas de referência? | ✅ | reference-companies.md |
-| 13.5 | Oportunidades mapeadas? | ✅ | opportunities.md |
+| 13.1 | Mercado foi analisado? | ✅ | [01-market-analysis.md](../06-business-intel/01-market-analysis.md) |
+| 13.2 | Concorrentes mapeados? | ✅ | [02-competitors.md](../06-business-intel/02-competitors.md) |
+| 13.3 | Ferramentas de BI definidas? | ✅ | [03-tools-resources.md](../06-business-intel/03-tools-resources.md) |
+| 13.4 | Empresas de referência? | ✅ | [04-reference-companies.md](../06-business-intel/04-reference-companies.md) |
+| 13.5 | Oportunidades mapeadas? | ✅ | [06-opportunities.md](../06-business-intel/06-opportunities.md) |
 
 ### Perguntas Abertas
 
@@ -322,8 +322,8 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 
 | Item | Documento | Prioridade |
 |------|-----------|------------|
-| Runway atual | kpis.md | Alta |
-| Entrevistas com ICP | experiments/ | Alta |
+| Runway atual | [kpis.md](../05-analysis/kpis.md) | Alta |
+| Entrevistas com ICP | [experiments/](../07-research/experiments/) | Alta |
 | Early adopters | - | Alta |
 | PMF validado | - | Crítica |
 
@@ -331,10 +331,10 @@ Série de perguntas organizadas para ajudar a completar e validar o contexto dos
 
 | Item | Documento | Owner |
 |------|-----------|-------|
-| Região geográfica inicial | positioning.md | Ambos |
-| Política de descontos | pricing.md | Miguel |
-| Programa de indicação | gtm.md | Gabriel |
-| Custos fixos detalhados | kpis.md | Gabriel |
+| Região geográfica inicial | [positioning.md](../01-company/positioning.md) | Ambos |
+| Política de descontos | [pricing.md](../01-company/pricing.md) | Miguel |
+| Programa de indicação | [gtm.md](../01-company/gtm.md) | Gabriel |
+| Custos fixos detalhados | [kpis.md](../05-analysis/kpis.md) | Gabriel |
 | Divisão de responsabilidades | - | Ambos |
 | Cultura desejada | - | Ambos |
 | Formalização empresa | - | Ambos |

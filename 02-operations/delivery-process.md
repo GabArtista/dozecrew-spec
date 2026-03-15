@@ -1,16 +1,17 @@
 ---
 title: Processo de Entrega (Discovery → MVP → Piloto → Escala)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/02-ops/02-intake-process.md
-  - /docs/02-ops/05-templates/TPL-003-pilot-sow.md
-  - /docs/02-ops/05-templates/TPL-006-incident-report.md
+  - /00-index/decision-log.md
+  - /01-company/portfolio.md
+  - /02-operations/intake-process.md
+  - /02-operations/templates/TPL-003-pilot-sow.md
+  - /02-operations/templates/TPL-006-incident-report.md
 tags:
   - ops
   - delivery

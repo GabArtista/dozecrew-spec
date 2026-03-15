@@ -1,17 +1,18 @@
 ---
 title: "Core Hub — LLMOps & Segurança"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/03-products/core-hub/01-prd.md
-  - /docs/03-products/core-hub/02-spec.md
-  - /docs/03-products/core-hub/03-architecture.md
-  - /docs/03-products/core-hub/04-api.md
-  - /docs/03-products/core-hub/05-data.md
-  - /docs/03-products/core-hub/07-testing.md
-  - /docs/00-index/decision-log.md
+  - /04-products/core-hub/01-prd.md
+  - /04-products/core-hub/02-spec.md
+  - /04-products/core-hub/03-architecture.md
+  - /04-products/core-hub/04-api.md
+  - /04-products/core-hub/05-data.md
+  - /04-products/core-hub/07-testing.md
+  - /00-index/decision-log.md
 tags:
   - llmops
   - safety

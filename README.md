@@ -1,3 +1,10 @@
+---
+title: Doze Crew - Documentação Enterprise
+status: active
+version: 1.0.0
+updated: 2026-03-15
+---
+
 # Doze Crew - Documentação Enterprise
 
 > Documentação centralizada da empresa Doze Crew - Estratégia, Operações, Padrões e Inteligência de Negócio.
@@ -38,9 +45,17 @@ dozecrew-spec/
 │   ├── database.yaml
 │   ├── postgres.yaml
 │   ├── mysql.yaml
+│   ├── prompt-database.yaml
+│   ├── documentation-governance-checklist.md
 │   └── kubernetes-server.md
 ├── 04-products/           # Produtos
 │   └── core-hub/
+├── 04-portal/             # Portal institucional
+│   ├── 01-sitemap.md
+│   ├── 02-copy.md
+│   ├── 03-design-notes.md
+│   ├── 04-tracking.md
+│   └── 05-contact-ops.md
 ├── 05-analysis/           # Análises estratégicas
 │   ├── risk-register.md
 │   ├── risk-action-plan.md
@@ -57,7 +72,10 @@ dozecrew-spec/
 │   ├── 06-opportunities.md
 │   ├── 07-links-repos.md
 │   ├── 08-research-plan.md
-│   └── 09-internal-projects.md
+│   ├── 09-internal-projects.md
+│   └── 10-seo-ia-first-research.md
+├── 06-backlog/            # Planejamento de sprints MVP
+│   └── mvp-sprints.md
 ├── 07-research/           # Pesquisas
 │   └── experiments/
 └── curriculo/             # CVs dos fundadores

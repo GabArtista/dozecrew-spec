@@ -44,9 +44,17 @@ spec-enterprise/
 │   ├── database.yaml      # Database universal
 │   ├── postgres.yaml      # PostgreSQL
 │   ├── mysql.yaml         # MySQL
+│   ├── prompt-database.yaml # Prompt base de banco de dados
+│   ├── documentation-governance-checklist.md # Checklist de qualidade documental
 │   └── kubernetes-server.md # Infraestrutura K8s
 ├── 04-products/           # Produtos da empresa
 │   └── core-hub/          # Specs do Core Hub
+├── 04-portal/             # Documentação do portal institucional
+│   ├── 01-sitemap.md
+│   ├── 02-copy.md
+│   ├── 03-design-notes.md
+│   ├── 04-tracking.md
+│   └── 05-contact-ops.md
 ├── 05-analysis/           # Análises estratégicas
 │   ├── risk-register.md   # Riscos da empresa
 │   ├── risk-action-plan.md
@@ -55,14 +63,18 @@ spec-enterprise/
 │   └── marketing-strategy.md
 ├── 06-business-intel/     # Inteligência de negócio
 │   ├── 00-index.md
-│   ├── market-analysis.md
-│   ├── competitors.md
-│   ├── tools-resources.md
-│   ├── reference-companies.md
-│   ├── profiles-influencers.md
-│   ├── opportunities.md
-│   ├── links-repos.md
-│   └── research-plan.md
+│   ├── 01-market-analysis.md
+│   ├── 02-competitors.md
+│   ├── 03-tools-resources.md
+│   ├── 04-reference-companies.md
+│   ├── 05-profiles-influencers.md
+│   ├── 06-opportunities.md
+│   ├── 07-links-repos.md
+│   ├── 08-research-plan.md
+│   ├── 09-internal-projects.md
+│   └── 10-seo-ia-first-research.md
+├── 06-backlog/            # Backlog e planejamento de sprints
+│   └── mvp-sprints.md
 ├── 07-research/           # Pesquisas e experimentos
 │   └── experiments/
 └── assets/
@@ -101,5 +113,5 @@ spec-enterprise/
 
 ## Relacionado
 
-- [spec-project/](../../spec-project/) - Specs específicos do projeto Portal
+- [GabArtista/portal](https://github.com/GabArtista/portal) - Repositório do Portal institucional
 

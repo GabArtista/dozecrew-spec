@@ -1,13 +1,14 @@
 ---
 title: Risk Register
 status: active
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/01-thesis.md
+  - /00-index/decision-log.md
+  - /01-company/thesis.md
 tags:
   - risk
   - governance
@@ -262,7 +263,7 @@ Evitar surpresas previsíveis, tornar trade-offs explícitos e orientar prioriza
   - Custo por execução acima do teto definido.
 
 ## Decisões
-Ver `/docs/00-index/decision-log.md`.
+Ver `/00-index/decision-log.md`.
 
 ## Próximos passos
 - Completar a seção [OPEN] de segurança (self-hosted vs SaaS, baseline de compliance) após 3 entrevistas com ICP.

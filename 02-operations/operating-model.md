@@ -1,18 +1,19 @@
 ---
 title: Operating Model (Company OS)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/01-thesis.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/02-ops/02-intake-process.md
-  - /docs/02-ops/03-delivery-process.md
-  - /docs/02-ops/04-weekly-rituals.md
-  - /docs/02-ops/05-templates/TPL-001-intake-form.md
+  - /00-index/decision-log.md
+  - /01-company/thesis.md
+  - /01-company/portfolio.md
+  - /02-operations/intake-process.md
+  - /02-operations/delivery-process.md
+  - /02-operations/weekly-rituals.md
+  - /02-operations/templates/TPL-001-intake-form.md
 tags:
   - ops
   - operating-model

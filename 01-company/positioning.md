@@ -1,14 +1,15 @@
 ---
 title: Posicionamento (Fase 1)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/01-company/01-thesis.md
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/06-risk-register.md
+  - /01-company/thesis.md
+  - /00-index/decision-log.md
+  - /05-analysis/risk-register.md
 tags:
   - company
   - positioning
@@ -103,7 +104,7 @@ Ter um posicionamento nítido para orientar: landing page, outbound, oferta de p
 ## Riscos
 - R-001, R-003, R-005 e R-006 são críticos para o posicionamento da Tese A.
 - R-002 é crítico para a Tese B.
-Ver `/docs/01-company/06-risk-register.md`.
+Ver `/05-analysis/risk-register.md`.
 
 ## Próximos passos
 - Converter este posicionamento em 2 landing pages (A e B) + scripts de outbound.

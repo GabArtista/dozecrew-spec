@@ -1,17 +1,18 @@
 ---
 title: EXP-001 — Outbound (14 dias) para validar ICP/Wedge/Preço
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/01-company/05-gtm.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/01-company/04-pricing.md
-  - /docs/02-ops/02-intake-process.md
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/06-risk-register.md
+  - /01-company/gtm.md
+  - /01-company/portfolio.md
+  - /01-company/pricing.md
+  - /02-operations/intake-process.md
+  - /00-index/decision-log.md
+  - /05-analysis/risk-register.md
 tags:
   - research
   - experiment

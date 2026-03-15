@@ -1,16 +1,17 @@
 ---
 title: "Core Hub — PRD (Product Requirements Document)"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/01-company/01-thesis.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/03-products/core-hub/02-spec.md
-  - /docs/03-products/core-hub/03-architecture.md
-  - /docs/00-index/decision-log.md
+  - /01-company/thesis.md
+  - /01-company/portfolio.md
+  - /04-products/core-hub/02-spec.md
+  - /04-products/core-hub/03-architecture.md
+  - /00-index/decision-log.md
 tags:
   - product
   - prd

@@ -1,15 +1,16 @@
 ---
 title: Tese da Empresa (Fase 1)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/02-positioning.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/01-company/06-risk-register.md
+  - /00-index/decision-log.md
+  - /01-company/positioning.md
+  - /01-company/portfolio.md
+  - /05-analysis/risk-register.md
 tags:
   - company
   - thesis
@@ -153,7 +154,7 @@ Regra: a tese “vence” se bater **≥ 2 de 3** critérios abaixo.
   - Checklist de prontidão de dados + segurança [OPEN]
 
 ## Riscos
-Ver `/docs/01-company/06-risk-register.md` (R-001 a R-006).
+Ver `/05-analysis/risk-register.md` (R-001 a R-006).
 
 ## Próximos passos
 - Fechar as suposições [OPEN] (geografia, canal, ICP inicial) com 3 entrevistas rápidas por tese.
@@ -161,6 +162,6 @@ Ver `/docs/01-company/06-risk-register.md` (R-001 a R-006).
 - Iniciar E1 (outbound) e preparar E2 (demo) em paralelo.
 
 ## Changed/Deprecated
-- 2026-01-16: adicionada referência ao portfólio em `/docs/01-company/03-portfolio.md` (sem alterar a tese aprovada).
+- 2026-01-16: adicionada referência ao portfólio em `/01-company/portfolio.md` (sem alterar a tese aprovada).
 
 

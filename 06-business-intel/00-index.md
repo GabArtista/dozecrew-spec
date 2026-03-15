@@ -29,6 +29,8 @@ tags:
 | 06 | [Oportunidades](06-opportunities.md) | Nichos, parcerias, tendências a explorar |
 | 07 | [Links e Repositórios](07-links-repos.md) | GitHub, artigos, relatórios, podcasts |
 | 08 | [Plano de Pesquisa](08-research-plan.md) | Cronograma, alertas, frequência de revisão |
+| 09 | [Projetos Internos](09-internal-projects.md) | Base de ativos e iniciativas internas |
+| 10 | [Pesquisa SEO IA-First](10-seo-ia-first-research.md) | Estratégia de conteúdo e palavras-chave |
 
 ## Como Usar Esta Documentação
 

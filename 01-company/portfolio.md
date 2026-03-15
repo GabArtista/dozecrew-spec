@@ -1,15 +1,16 @@
 ---
 title: Portfólio (Produtos, Serviços e Utilitários)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/01-company/01-thesis.md
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/04-pricing.md
-  - /docs/01-company/06-risk-register.md
+  - /01-company/thesis.md
+  - /00-index/decision-log.md
+  - /01-company/pricing.md
+  - /05-analysis/risk-register.md
 tags:
   - company
   - portfolio
@@ -107,10 +108,10 @@ Tabela inicial (estimativa; recalibrar após 14 dias):
 - **[OPEN]**: Wedge da Oferta A1 (quais 1–2 rotinas iniciais).
 - **[OPEN]**: Canal prioritário para Oferta B1 (WhatsApp vs Zendesk/Intercom primeiro).
 - **[OPEN]**: Política de deployment (SaaS vs self-hosted) por ICP e requisito de compliance.
-- **Decidido**: preços e pacotes ficam em `/docs/01-company/04-pricing.md` e são aplicados via SOW de piloto.
+- **Decidido**: preços e pacotes ficam em `/01-company/pricing.md` e são aplicados via SOW de piloto.
 
 ## Riscos
-Ver `/docs/01-company/06-risk-register.md` (inclui R-007 e R-008).
+Ver `/05-analysis/risk-register.md` (inclui R-007 e R-008).
 
 ## Próximos passos
 - Escolher o wedge da Oferta A1 com base em 5 conversas rápidas (dor + volume + integração).

@@ -1,18 +1,19 @@
 ---
 title: GTM (Go-to-Market) — v1 (Outbond + Parcerias)
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/01-company/01-thesis.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/01-company/04-pricing.md
-  - /docs/02-ops/02-intake-process.md
-  - /docs/05-research/experiments-14d/EXP-001-outbound.md
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/06-risk-register.md
+  - /01-company/thesis.md
+  - /01-company/portfolio.md
+  - /01-company/pricing.md
+  - /02-operations/intake-process.md
+  - /07-research/experiments/EXP-001-outbound.md
+  - /00-index/decision-log.md
+  - /05-analysis/risk-register.md
 tags:
   - company
   - gtm
@@ -76,7 +77,7 @@ Definir GTM v1 executável (mensagens, canais, cadência e métricas) para valid
 
 ### Canal 1 — Outbound (primário)
 - Sequência: e-mail + LinkedIn + (WhatsApp só com contexto/permite) [OPEN].
-- Cadência operacional em `/docs/05-research/experiments-14d/EXP-001-outbound.md`.
+- Cadência operacional em `/07-research/experiments/EXP-001-outbound.md`.
 
 ### Canal 2 — Parcerias (secundário, mas escalável)
 - **A1**: parcerias com contabilidades/BPOs e ERPs locais (quando fizer sentido) [OPEN].

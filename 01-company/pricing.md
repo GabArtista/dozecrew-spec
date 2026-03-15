@@ -1,15 +1,16 @@
 ---
 title: Pricing (Embalagem, Faixas e Regras)
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/01-company/03-portfolio.md
-  - /docs/02-ops/05-templates/TPL-003-pilot-sow.md
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/06-risk-register.md
+  - /01-company/portfolio.md
+  - /02-operations/templates/TPL-003-pilot-sow.md
+  - /00-index/decision-log.md
+  - /05-analysis/risk-register.md
 tags:
   - company
   - pricing

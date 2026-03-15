@@ -1,15 +1,16 @@
 ---
 title: "Core Hub — Spec Funcional"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/03-products/core-hub/01-prd.md
-  - /docs/03-products/core-hub/03-architecture.md
-  - /docs/03-products/core-hub/04-api.md
-  - /docs/00-index/decision-log.md
+  - /04-products/core-hub/01-prd.md
+  - /04-products/core-hub/03-architecture.md
+  - /04-products/core-hub/04-api.md
+  - /00-index/decision-log.md
 tags:
   - product
   - spec

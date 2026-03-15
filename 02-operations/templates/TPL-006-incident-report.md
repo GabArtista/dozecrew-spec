@@ -1,12 +1,13 @@
 ---
 title: TPL-006 — Incident Report (LLM/Automação)
 status: active
+version: 1.0.0
 owners:
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/03-delivery-process.md
-  - /docs/01-company/06-risk-register.md
+  - /02-operations/delivery-process.md
+  - /05-analysis/risk-register.md
 tags:
   - template
   - ops
