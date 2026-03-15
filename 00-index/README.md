@@ -44,6 +44,8 @@ spec-enterprise/
 │   ├── database.yaml      # Database universal
 │   ├── postgres.yaml      # PostgreSQL
 │   ├── mysql.yaml         # MySQL
+│   ├── prompt-database.yaml # Prompt base de banco de dados
+│   ├── documentation-governance-checklist.md # Checklist de qualidade documental
 │   └── kubernetes-server.md # Infraestrutura K8s
 ├── 04-products/           # Produtos da empresa
 │   └── core-hub/          # Specs do Core Hub
