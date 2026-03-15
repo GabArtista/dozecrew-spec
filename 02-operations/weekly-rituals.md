@@ -6,11 +6,11 @@ owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/01-operating-model.md
-  - /docs/02-ops/02-intake-process.md
-  - /docs/02-ops/03-delivery-process.md
-  - /docs/02-ops/05-templates/TPL-005-weekly-metrics-snapshot.md
-  - /docs/00-index/decision-log.md
+  - /02-operations/operating-model.md
+  - /02-operations/intake-process.md
+  - /02-operations/delivery-process.md
+  - /02-operations/templates/TPL-005-weekly-metrics-snapshot.md
+  - /00-index/decision-log.md
 tags:
   - ops
   - rituals

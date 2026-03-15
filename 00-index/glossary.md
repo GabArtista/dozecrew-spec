@@ -6,7 +6,7 @@ owners:
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
+  - /00-index/decision-log.md
 tags:
   - glossary
   - definitions

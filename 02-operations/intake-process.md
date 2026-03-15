@@ -6,11 +6,11 @@ owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/00-index/decision-log.md
-  - /docs/01-company/01-thesis.md
-  - /docs/01-company/03-portfolio.md
-  - /docs/02-ops/05-templates/TPL-001-intake-form.md
-  - /docs/02-ops/05-templates/TPL-002-triage-scorecard.md
+  - /00-index/decision-log.md
+  - /01-company/thesis.md
+  - /01-company/portfolio.md
+  - /02-operations/templates/TPL-001-intake-form.md
+  - /02-operations/templates/TPL-002-triage-scorecard.md
 tags:
   - ops
   - intake

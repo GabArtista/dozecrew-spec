@@ -5,12 +5,12 @@ owners:
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/03-products/core-hub/01-prd.md
-  - /docs/03-products/core-hub/02-spec.md
-  - /docs/03-products/core-hub/04-api.md
-  - /docs/03-products/core-hub/05-data.md
-  - /docs/03-products/core-hub/06-llmops.md
-  - /docs/00-index/decision-log.md
+  - /04-products/core-hub/01-prd.md
+  - /04-products/core-hub/02-spec.md
+  - /04-products/core-hub/04-api.md
+  - /04-products/core-hub/05-data.md
+  - /04-products/core-hub/06-llmops.md
+  - /00-index/decision-log.md
 tags:
   - architecture
   - core-hub

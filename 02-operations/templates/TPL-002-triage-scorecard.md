@@ -6,8 +6,8 @@ owners:
   - Gabriel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/02-intake-process.md
-  - /docs/00-index/decision-log.md
+  - /02-operations/intake-process.md
+  - /00-index/decision-log.md
 tags:
   - template
   - ops

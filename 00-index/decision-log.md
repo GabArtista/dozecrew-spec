@@ -6,27 +6,27 @@ owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/01-company/01-thesis.md
-  - /docs/01-company/02-positioning.md
-  - /docs/01-company/06-risk-register.md
-  - /docs/03-products/core-hub/01-prd.md
-  - /docs/03-products/core-hub/02-spec.md
-  - /docs/03-products/core-hub/03-architecture.md
-  - /docs/03-products/core-hub/04-api.md
-  - /docs/03-products/core-hub/05-data.md
-  - /docs/03-products/core-hub/06-llmops.md
-  - /docs/03-products/core-hub/07-testing.md
-  - /docs/03-products/core-hub/08-release.md
-  - /docs/06-backlog/mvp-sprints.md
-  - /docs/00-index/glossary.md
-  - /docs/04-portal/01-sitemap.md
-  - /docs/04-portal/02-copy.md
-  - /docs/04-portal/03-design-notes.md
-  - /docs/04-portal/04-tracking.md
-  - /docs/04-portal/05-contact-ops.md
-  - /docs/04-portal/01-sitemap.md
-  - /docs/04-portal/02-copy.md
-  - /docs/04-portal/04-tracking.md
+  - /01-company/thesis.md
+  - /01-company/positioning.md
+  - /05-analysis/risk-register.md
+  - /04-products/core-hub/01-prd.md
+  - /04-products/core-hub/02-spec.md
+  - /04-products/core-hub/03-architecture.md
+  - /04-products/core-hub/04-api.md
+  - /04-products/core-hub/05-data.md
+  - /04-products/core-hub/06-llmops.md
+  - /04-products/core-hub/07-testing.md
+  - /04-products/core-hub/08-release.md
+  - /06-backlog/mvp-sprints.md
+  - /00-index/glossary.md
+  - /04-portal/01-sitemap.md
+  - /04-portal/02-copy.md
+  - /04-portal/03-design-notes.md
+  - /04-portal/04-tracking.md
+  - /04-portal/05-contact-ops.md
+  - /04-portal/01-sitemap.md
+  - /04-portal/02-copy.md
+  - /04-portal/04-tracking.md
 tags:
   - governance
   - decisions
@@ -61,9 +61,9 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Estruturar oferta inicial como **wedge** (1–2 rotinas com ROI) para evitar consultoria infinita.
   - Medir tração por métricas objetivas em 14 dias antes de expandir escopo.
 - **Links**:
-  - `/docs/01-company/01-thesis.md`
-  - `/docs/01-company/02-positioning.md`
-  - `/docs/01-company/06-risk-register.md`
+  - `/01-company/thesis.md`
+  - `/01-company/positioning.md`
+  - `/05-analysis/risk-register.md`
 
 ### 2026-01-16 — DL-2026-01-16-02 — Critérios de decisão em 14 dias (experimentos + métricas)
 - **Decisão**: Decidir entre teses A e B com base em 3 critérios objetivos; vencerá quem bater **≥ 2 de 3** thresholds definidos.
@@ -82,7 +82,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - **Dor/orçamento**: ≥ 2 pilotos pagos ou LOI com valor e prazo por tese.
   - **Viabilidade**: primeiro valor ≤ 14 dias e ≤ 2 integrações no piloto.
 - **Links**:
-  - `/docs/01-company/01-thesis.md#decisões`
+  - `/01-company/thesis.md#decisões`
 
 ### 2026-01-16 — DL-2026-01-16-03 — Portfólio inicial orientado a wedge (evitar dispersão)
 - **Decisão**: Definir um portfólio inicial com **1 oferta “core” (wedge)** alinhada à Tese A, mais **1 oferta alternativa** alinhada à Tese B e **utilitários internos** (IA-First) que acelerem entrega e virem ativos reutilizáveis; evitar lançar múltiplas ofertas externas ao mesmo tempo.
@@ -98,7 +98,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Requer limites claros de escopo no piloto e critérios de “o que entra / o que não entra”.
   - Exige priorização por ICE + risco de canal antes de abrir novas ofertas.
 - **Links**:
-  - `/docs/01-company/03-portfolio.md`
+  - `/01-company/portfolio.md`
 
 ### 2026-01-16 — DL-2026-01-16-04 — Company OS (Fase 2) adotado como padrão operacional
 - **Decisão**: Adotar um **Company OS IA-First** com 2 fundadores e portfólio em camadas (core + satélites), com processos padrão para operação, intake, entrega e rituais.
@@ -114,10 +114,10 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Exige disciplina semanal (rituais) e registro de decisões.
   - Exige templates e Definition-of-Done para evitar “quase pronto”.
 - **Links**:
-  - `/docs/02-ops/01-operating-model.md`
-  - `/docs/02-ops/02-intake-process.md`
-  - `/docs/02-ops/03-delivery-process.md`
-  - `/docs/02-ops/04-weekly-rituals.md`
+  - `/02-operations/operating-model.md`
+  - `/02-operations/intake-process.md`
+  - `/02-operations/delivery-process.md`
+  - `/02-operations/weekly-rituals.md`
 
 ### 2026-01-16 — DL-2026-01-16-05 — Intake padronizado com score ICE + risco (canal e entrega)
 - **Decisão**: Todo projeto/lead entra via **Intake** com triagem e score **ICE + risco** (canal e execução), gerando decisão Go/No-Go e registro no Decision Log quando necessário.
@@ -132,7 +132,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Alguns “bons” pedidos serão recusados por risco/escopo.
   - Requer formulário mínimo e checklist de prontidão.
 - **Links**:
-  - `/docs/02-ops/02-intake-process.md`
+  - `/02-operations/intake-process.md`
 
 ### 2026-01-16 — DL-2026-01-16-06 — Precificação inicial: setup + mensalidade (com limites e medição)
 - **Decisão**: Adotar **setup + mensalidade** como padrão (sem cobrança por hora), com **limites explícitos** (integrações, volume, ambientes) e métricas de valor/custo desde o piloto.
@@ -148,7 +148,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa de catálogo de limites e “o que acontece quando estoura limite”.
   - Exige definição de métricas mínimas por oferta (A1/B1).
 - **Links**:
-  - `/docs/01-company/04-pricing.md`
+  - `/01-company/pricing.md`
 
 ### 2026-01-16 — DL-2026-01-16-07 — Backlog orientado por épicos (core-first) + utilitários
 - **Decisão**: Organizar execução em **épicos** alinhados ao portfólio (A1 core, B1 alternativa, U1–U3 utilitários) com prioridade por **ICE + risco** e WIP limitado.
@@ -161,7 +161,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
 - **Implicações**:
   - Todo épico precisa de DoD e métricas de sucesso.
 - **Links**:
-  - `/docs/06-backlog/epics.md`
+  - `/06-backlog/epics.md`
 
 ### 2026-01-16 — DL-2026-01-16-08 — GTM inicial: outbound + parcerias (evitar dependência de ads/SEO)
 - **Decisão**: Adotar **outbound** como canal primário nas primeiras 2–6 semanas, complementado por **parcerias** (ex.: BPO/contabilidade para A1; consultorias CS para B1). Ads/SEO ficam como canal secundário até validação de ICP e unit economics.
@@ -176,7 +176,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Exige disciplina diária e scripts padronizados.
   - Depende de boa segmentação e entregabilidade para evitar reputação negativa.
 - **Links**:
-  - `/docs/01-company/05-gtm.md`
+  - `/01-company/gtm.md`
 
 ### 2026-01-16 — DL-2026-01-16-09 — Experimento EXP-001 (14 dias): outbound para validar wedge/ICP/preço
 - **Decisão**: Executar um experimento de 14 dias de outbound com **métricas/thresholds** para validar: (1) dor e urgência, (2) WTP (piloto pago/LOI), (3) viabilidade do wedge com ≤2 integrações.
@@ -191,7 +191,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa de tracking rigoroso e rotina diária.
   - Requer ajuste de mensagem nas primeiras 48h com base em respostas.
 - **Links**:
-  - `/docs/05-research/experiments-14d/EXP-001-outbound.md`
+  - `/07-research/experiments/EXP-001-outbound.md`
 
 ### 2026-01-16 — DL-2026-01-16-10 — Portal institucional: sitemap mínimo focado em conversão
 - **Decisão**: Definir sitemap do portal com **foco em conversão** (diagnóstico/piloto) e estrutura mínima: Home, Produto (A1/B1), Serviços (Implantação/Otimização), Sobre, Contato, FAQ, Privacidade/Termos.
@@ -207,7 +207,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Não terá blog/conteúdo no v1 (menos SEO orgânico, mas menos overhead).
   - Depende de outbound como canal primário até validar conversão do portal.
 - **Links**:
-  - `/docs/04-portal/01-sitemap.md`
+  - `/04-portal/01-sitemap.md`
 
 ### 2026-01-16 — DL-2026-01-16-11 — Copy do portal: tom profissional, pragmático, CTA para diagnóstico
 - **Decisão**: Adotar copy em **PT-BR**, tom **profissional e pragmático** (sem hype/buzzwords), com CTA principal para **diagnóstico gratuito de 15 min** e CTA secundário para **proposta de piloto**.
@@ -223,7 +223,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa validar copy com 3–5 leads do outbound antes de implementar.
   - [OPEN] Decidir se exibe preços no site ou só em proposta.
 - **Links**:
-  - `/docs/04-portal/02-copy.md`
+  - `/04-portal/02-copy.md`
 
 ### 2026-01-16 — DL-2026-01-16-12 — Tracking do portal: GA4 + GTM + eventos mínimos de conversão
 - **Decisão**: Adotar **GA4 + GTM** como stack de tracking obrigatório, com eventos mínimos: `page_view`, `cta_click`, `form_submit`, `call_booked`. Meta Pixel e LinkedIn Insight Tag ficam como opcionais (só se rodar ads nessas plataformas).
@@ -239,7 +239,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa implementar banner de consentimento (LGPD).
   - Precisa integrar formulário com CRM para tracking pós-conversão.
 - **Links**:
-  - `/docs/04-portal/04-tracking.md`
+  - `/04-portal/04-tracking.md`
 
 ### 2026-01-16 — DL-2026-01-16-13 — Stack e arquitetura do Core Hub (MVP)
 - **Decisão**: Adotar **FastAPI + Celery + LangChain/LangGraph + Postgres + Redis + Qdrant + MinIO** com multi-tenancy por `tenant_id` e Docker Compose no MVP (K8s v1+).
@@ -255,7 +255,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa de disciplina de multi-tenant (tenant_id em todas as queries).
   - Migração planejada para K8s ao escalar (v1+).
 - **Links**:
-  - `/docs/03-products/core-hub/03-architecture.md`
+  - `/04-products/core-hub/03-architecture.md`
 
 ### 2026-01-16 — DL-2026-01-16-14 — API REST com JWT + cursor e HIL unificado
 - **Decisão**: API REST JSON com JWT + refresh em cookie httpOnly, paginação cursor-based e endpoints dedicados para HIL/approvals e auditoria.
@@ -271,7 +271,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Precisa de rate limiting por tenant.
   - Batch-approve com limites para evitar abuso.
 - **Links**:
-  - `/docs/03-products/core-hub/04-api.md`
+  - `/04-products/core-hub/04-api.md`
 
 ### 2026-01-16 — DL-2026-01-16-15 — Dados e governança: retenção, PII e audit log
 - **Decisão**: Multi-tenant por `tenant_id`, audit log append-only (5 anos), retenção de arquivos 180 dias, dados operacionais 24 meses [OPEN], PII minimizada e mascarada em logs.
@@ -286,7 +286,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Jobs de purge e políticas de backup/restauração.
   - Máscara de PII em logs e tracing de LLM.
 - **Links**:
-  - `/docs/03-products/core-hub/05-data.md`
+  - `/04-products/core-hub/05-data.md`
 
 ### 2026-01-16 — DL-2026-01-16-16 — LLMOps com HIL por default e gates de custo/qualidade
 - **Decisão**: HIL obrigatório para ações sensíveis; validação de schema; caching; versionamento de prompts; métricas de latência/custo/qualidade com thresholds; incident playbook.
@@ -301,7 +301,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Requer dataset de avaliação e tracing de LLM.
   - Precisa definir ferramenta de observabilidade LLM [OPEN].
 - **Links**:
-  - `/docs/03-products/core-hub/06-llmops.md`
+  - `/04-products/core-hub/06-llmops.md`
 
 ### 2026-01-16 — DL-2026-01-16-17 — Qualidade e release: LLM eval como gate + trunk-based
 - **Decisão**: Pirâmide de testes (unit, integração, contrato, E2E, LLM eval), LLM eval como gate de promoção, trunk-based + SemVer, checklists de smoke e rollback com feature flags.
@@ -316,8 +316,8 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Pipelines devem rodar eval curta em cada release.
   - Feature flags necessárias para rollback seguro.
 - **Links**:
-  - `/docs/03-products/core-hub/07-testing.md`
-  - `/docs/03-products/core-hub/08-release.md`
+  - `/04-products/core-hub/07-testing.md`
+  - `/04-products/core-hub/08-release.md`
 
 ### 2026-01-16 — DL-2026-01-16-18 — Plano de sprints do MVP (3 sprints, 1 fluxo)
 - **Decisão**: Executar 3 sprints semanais focadas em 1 fluxo (cobrança) com HIL, antes de expandir para outros fluxos.
@@ -332,7 +332,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Outras rotinas (conciliação/AP) ficam no backlog até fechar piloto.
   - Checklist de piloto/relatório semanal obrigatório.
 - **Links**:
-  - `/docs/06-backlog/mvp-sprints.md`
+  - `/06-backlog/mvp-sprints.md`
 
 ### 2026-01-16 — DL-2026-01-16-19 — Portal: framework de UI e simplicidade visual
 - **Decisão**: Usar UI simples com ícones leves, grid 12 col, cores sóbrias e CTA visível; evitar ilustrações “hype”. Framework recomendado: Vue 3 + Tailwind; ícones: Heroicons.
@@ -347,7 +347,7 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Ajustar identidade final (cores/logotipo) ainda [OPEN].
   - Se time preferir Angular, manter Tailwind para velocidade.
 - **Links**:
-  - `/docs/04-portal/03-design-notes.md`
+  - `/04-portal/03-design-notes.md`
 
 ### 2026-01-16 — DL-2026-01-16-20 — Contact Ops: fluxo e ferramental MVP
 - **Decisão**: Fluxo de contato simples com resposta ≤24h úteis, 3 toques de follow-up e qualificação curta; armazenar em planilha/Notion/CRM leve; alerta de `form_submit` obrigatório.
@@ -362,13 +362,13 @@ Manter um histórico auditável para evitar “redecidir” sem dados e garantir
   - Definir política de WhatsApp/LinkedIn (consentimento) [OPEN].
   - Implementar alerta imediato (e-mail/Slack) no submit.
 - **Links**:
-  - `/docs/04-portal/05-contact-ops.md`
+  - `/04-portal/05-contact-ops.md`
 
 ## Riscos
-Ver `/docs/01-company/06-risk-register.md`.
+Ver `/05-analysis/risk-register.md`.
 
 ## Próximos passos
-- Executar os experimentos de 14 dias descritos em `/docs/01-company/01-thesis.md`.
+- Executar os experimentos de 14 dias descritos em `/01-company/thesis.md`.
 - Registrar novas decisões e mudanças de direção aqui, sem apagar histórico.
 
 

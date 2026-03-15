@@ -5,7 +5,7 @@ owners:
   - Miguel
 updated: 2026-01-16
 links:
-  - /docs/02-ops/04-weekly-rituals.md
+  - /02-operations/weekly-rituals.md
 tags:
   - template
   - ops
