@@ -1,6 +1,7 @@
 ---
 title: "Core Hub — Release & Deploy Playbook"
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel

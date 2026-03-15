@@ -1,6 +1,7 @@
 ---
 title: TPL-005 — Weekly Metrics Snapshot
 status: active
+version: 1.0.0
 owners:
   - Miguel
 updated: 2026-01-16

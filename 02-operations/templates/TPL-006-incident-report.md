@@ -1,6 +1,7 @@
 ---
 title: TPL-006 — Incident Report (LLM/Automação)
 status: active
+version: 1.0.0
 owners:
   - Gabriel
 updated: 2026-01-16

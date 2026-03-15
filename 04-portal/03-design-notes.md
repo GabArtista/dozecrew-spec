@@ -1,6 +1,7 @@
 ---
 title: "Portal — Design Notes"
 status: draft
+version: 1.0.0
 owners:
   - Miguel
 updated: 2026-03-15

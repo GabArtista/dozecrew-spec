@@ -1,6 +1,7 @@
 ---
 title: "Core Hub — PRD (Product Requirements Document)"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

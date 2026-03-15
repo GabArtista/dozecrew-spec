@@ -1,6 +1,7 @@
 ---
 title: "Portal — Tracking"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
 updated: 2026-03-15

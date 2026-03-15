@@ -1,6 +1,7 @@
 ---
 title: EXP-001 — Outbound (14 dias) para validar ICP/Wedge/Preço
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel

@@ -1,6 +1,7 @@
 ---
 title: Risk Register
 status: active
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

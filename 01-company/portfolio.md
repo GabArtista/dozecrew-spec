@@ -1,6 +1,7 @@
 ---
 title: Portfólio (Produtos, Serviços e Utilitários)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

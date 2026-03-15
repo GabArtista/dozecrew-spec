@@ -1,6 +1,7 @@
 ---
 title: TPL-001 — Intake Form (Formulário de Entrada)
 status: active
+version: 1.0.0
 owners:
   - Miguel
 updated: 2026-01-16

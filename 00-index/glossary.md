@@ -1,6 +1,7 @@
 ---
 title: Glossário
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel

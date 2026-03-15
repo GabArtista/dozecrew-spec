@@ -1,6 +1,7 @@
 ---
 title: TPL-002 — Triage Scorecard (ICE + Risco)
 status: active
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel

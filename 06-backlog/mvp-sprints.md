@@ -1,6 +1,7 @@
 ---
 title: "Backlog — MVP Sprints"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

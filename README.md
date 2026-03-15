@@ -1,3 +1,10 @@
+---
+title: Doze Crew - Documentação Enterprise
+status: active
+version: 1.0.0
+updated: 2026-03-15
+---
+
 # Doze Crew - Documentação Enterprise
 
 > Documentação centralizada da empresa Doze Crew - Estratégia, Operações, Padrões e Inteligência de Negócio.
@@ -38,6 +45,8 @@ dozecrew-spec/
 │   ├── database.yaml
 │   ├── postgres.yaml
 │   ├── mysql.yaml
+│   ├── prompt-database.yaml
+│   ├── documentation-governance-checklist.md
 │   └── kubernetes-server.md
 ├── 04-products/           # Produtos
 │   └── core-hub/

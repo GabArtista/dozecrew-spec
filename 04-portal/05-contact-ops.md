@@ -1,6 +1,7 @@
 ---
 title: "Portal — Contact Ops"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

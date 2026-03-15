@@ -1,6 +1,7 @@
 ---
 title: GTM (Go-to-Market) — v1 (Outbond + Parcerias)
 status: draft
+version: 1.0.0
 owners:
   - Miguel
   - Gabriel

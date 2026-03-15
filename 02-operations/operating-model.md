@@ -1,6 +1,7 @@
 ---
 title: Operating Model (Company OS)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

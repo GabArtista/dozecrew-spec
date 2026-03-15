@@ -1,6 +1,7 @@
 ---
 title: Processo de Entrega (Discovery → MVP → Piloto → Escala)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

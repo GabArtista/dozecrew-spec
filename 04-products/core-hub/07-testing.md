@@ -1,6 +1,7 @@
 ---
 title: "Core Hub — Estratégia de Testes"
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
 updated: 2026-01-16

@@ -1,6 +1,7 @@
 ---
 title: Processo de Intake (Entrada Universal de Projetos)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel

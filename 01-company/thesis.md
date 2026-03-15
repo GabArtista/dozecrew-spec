@@ -1,6 +1,7 @@
 ---
 title: Tese da Empresa (Fase 1)
 status: draft
+version: 1.0.0
 owners:
   - Gabriel
   - Miguel
